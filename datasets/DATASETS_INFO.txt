@@ -1,0 +1,11 @@
+ECCV Framework - Real Datasets Information
+======================================================================
+
+Time-Series Datasets (UCR Archive):
+
+Non-Time-Series Datasets (sklearn):
+  - Iris: 150 samples, 4 features, 3 classes
+  - Wine: 178 samples, 13 features, 3 classes
+  - BreastCancer: 569 samples, 30 features, 2 classes
+  - Digits: 901 samples, 64 features, 5 classes
+  - Moons: 300 samples, 2 features, 2 classes
